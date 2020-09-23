@@ -1,10 +1,8 @@
-// function to generate markdown for README
-function generateMarkdown(data) {
-  return `
-  # Title: ${data.title} 
+
+  # Title: Readme Generator 
   
   ## Description:
-  ${data.description}
+  An app to take input via CLI to generate a good README file.
 
   ## Table of Contents
   * [Description](#description) 
@@ -16,24 +14,20 @@ function generateMarkdown(data) {
   * [Questions](#questions)
 
   ## Installation: 
-  ${data.installation}
+  test install
 
   ## Usage: 
-  ${data.usage}
+  test usage
 
   ## License: 
-  ${data.license}
+  Unlicensed
 
   ## Contributing: 
-  ${data.contributing}
+  test contribution
 
   ## Tests: 
-  ${data.tests}
+  undefined
 
   ## Questions: 
-  [GitHub Profile](github.com/${data.username})
+  [GitHub Profile](github.com/jasandper)
 
-`;
-}
-
-module.exports = generateMarkdown;
