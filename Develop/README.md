@@ -1,8 +1,8 @@
 
-  # Title: sdf 
+  # Title: Readme Generator 
   
   ## Description:
-  sdf
+  An application designed to take input through CLI and create a good README file.
 
   ## Table of Contents
   * [Description](#description) 
@@ -14,20 +14,23 @@
   * [Questions](#questions)
 
   ## Installation: 
-  sdf
+  test instructions
 
   ## Usage: 
-  sdf
+  test information
 
   ## License: 
-  MIT
+  Unlicensed
 
   ## Contributing: 
-  
+  test contributions
 
   ## Tests: 
   undefined
 
   ## Questions: 
   [GitHub Profile](#github.com/jasandper)
+
+  ## Screen Captures
+  [Screen Record](#https://drive.google.com/file/d/101CFiDhtP2bTawlVsPJvDNEn28aYM4Zp/view?usp=sharing)
 
