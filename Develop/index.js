@@ -32,7 +32,7 @@ const questions = [
         choices: [
             "MIT",
             "APACHE",
-            "GPL",
+            "ISC",
             "Unlicensed"
         ]
     },
@@ -49,8 +49,8 @@ const questions = [
     },
     {
         type: "input",
-        message: "Enter questions input:",
-        name: "questions"
+        message: "What is your GitHut username?",
+        name: "username"
     }
 
     
@@ -68,7 +68,7 @@ function writeToFile(fileName, data) {
 // function to initialize program
 function init() {
   inquirer.prompt(questions).then ((responses) => {
-    console.log(responses)
+ 
     writeToFile("README.md", responses)   
   });
 }

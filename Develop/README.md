@@ -1,25 +1,33 @@
 
-  # Snacks 
+  # Title: sdf 
   
-  ## sdf
+  ## Description:
+  sdf
 
   ## Table of Contents
   * [Description](#description) 
   * [Installation](#installation)
-  * [Usage](#License)
+  * [Usage](#usage)
+  * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
 
-  ## sdf
+  ## Installation: 
+  sdf
 
-  ## sdf
+  ## Usage: 
+  sdf
 
-  ## MIT
+  ## License: 
+  MIT
 
-  ## sdf
+  ## Contributing: 
+  
 
-  ## undefined
+  ## Tests: 
+  undefined
 
-  ## 
+  ## Questions: 
+  [GitHub Profile](#github.com/jasandper)
 
