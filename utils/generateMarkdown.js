@@ -1,20 +1,5 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  // let mit = "https://opensource.org/licenses/MIT"
-  // let apache = "https://opensource.org/licenses/Apache-2.0"
-  // let isc = "https://opensource.org/licenses/ISC"
-  // let unlicence = "http://unlicense.org/"
-  // let URL;
-
-  // if (data.license === "MIT") {
-  //   URL = mit 
-  // } else if (data.license === "APACHE") {
-  //   URL = apache
-  // } else if (data.license === "ISC") {
-  //   URL = isc
-  // } else {
-  //   URL = unlicence
-  // }
 
 let licenseURL = {
   MIT: `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`,
