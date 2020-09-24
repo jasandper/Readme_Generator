@@ -5,7 +5,7 @@
 
   
   ## Description:
-  An application designed to generate a good roodme based on CLI inputs.
+  An application designed to generate a good README based on CLI inputs.
 
   ## Table of Contents
   * [Description](#description) 
@@ -32,7 +32,7 @@
   undefined
 
   ## Questions: 
-  [GitHub Profile](https://github.com/jasandper)
+  [Jason Perez](https://github.com/jasandper)
 
   ## Screen Captures
   [Screen Record of working app](https://drive.google.com/file/d/1dHkKGsxEK2yBSZZ8LCOMXSKeKmwQGs5R/view?usp=sharing)
