@@ -32,5 +32,5 @@
   undefined
 
   ## Questions: 
-  [GitHub Profile](github.com/jasandper)
+  [GitHub Profile](https://github.com/jasandper)
 
