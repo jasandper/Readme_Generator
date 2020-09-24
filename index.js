@@ -33,7 +33,7 @@ const questions = [
             "MIT",
             "APACHE",
             "ISC",
-            "Unlicensed"
+            "Unlicense"
         ]
     },
     {
@@ -69,7 +69,7 @@ function writeToFile(fileName, data) {
 function init() {
   inquirer.prompt(questions).then ((responses) => {
  
-    writeToFile("README2.md", responses)   
+    writeToFile("README.md", responses)   
   });
 }
 

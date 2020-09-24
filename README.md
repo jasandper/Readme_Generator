@@ -1,8 +1,11 @@
 
   # Title: Readme Generator 
+
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
   
   ## Description:
-  An application designed to take input through CLI and create a good README file.
+  An application designed to generate a good roodme based on CLI inputs.
 
   ## Table of Contents
   * [Description](#description) 
@@ -14,23 +17,20 @@
   * [Questions](#questions)
 
   ## Installation: 
-  test instructions
+  
 
   ## Usage: 
-  test information
+  
 
   ## License: 
-  Unlicensed
-
+  Unlicense
+  
   ## Contributing: 
-  test contributions
+  
 
   ## Tests: 
   undefined
 
   ## Questions: 
   [GitHub Profile](github.com/jasandper)
-
-  ## Screen Captures
-  [Screen Record](https://drive.google.com/file/d/1dHkKGsxEK2yBSZZ8LCOMXSKeKmwQGs5R/view?usp=sharing)
 
